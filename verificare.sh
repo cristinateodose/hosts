@@ -17,3 +17,4 @@ if [ -n "$ip" ] && [ -n "$host" ]; then
 fi
 done
 
+echo "Modificat de Delia Luca"
